@@ -40,5 +40,6 @@ hello dosto enjoy all fb fytr cammand
 
 
 ![Screenshot_20231010_222017](https://github.com/SK-BAAP-786/FACEBOOK-LO9D3R/assets/111557947/51f7a3bf-eb6a-444e-9e4a-5c220283420e)
-![Screenshot_20231017_195810](https://github.com/SK-BAAP-786/FACEBOOK-LO9D3R/assets/111557947/cb294b1f-173b-4e80-a444-268b2de60d29)
+![Screenshot_20231021_084954](https://github.com/SK-BAAP-786/FACEBOOK-LO9D3R/assets/111557947/70b7c7f5-74be-4105-aa71-d67d4921e73b)
+
 # FACEBOOK-LO9D3R
