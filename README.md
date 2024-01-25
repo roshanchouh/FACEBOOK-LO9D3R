@@ -1,5 +1,5 @@
 FACEBOOK LOADER ALL WOKING NEW CAMMAND BINA 2FACTOR ID LOGIN AND COOKIE LOGIN✅
-TERMUX FREE COMMANDS BY MAHTAB 
+TERMUX FREE COMMANDS BY ROSHAN
 pkg update
 
 pkg upgrade
@@ -22,7 +22,7 @@ pip install rich
 
 rm -rf FACEBOOK-LO9D3R
 
-git clone https://github.com/SK-BAAP-786/FACEBOOK-LO9D3R.git
+git clone https:
 
 cd FACEBOOK-LO9D3R
 
